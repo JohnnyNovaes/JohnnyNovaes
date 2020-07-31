@@ -12,4 +12,4 @@ My name is João Henrique and I'm in the path to become a Data Scientist Jedi.<i
 
 
 <br><br><p><em> None of us is as smart as all of us
-— Ken Blanchard, Don Carew, and Eunice Parisi-Carew </em></p>
+— Ken Blanchard </em></p>
