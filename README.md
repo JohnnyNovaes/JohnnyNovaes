@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-joao.sarraceni@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao.sarraceni@gmail.com)](mailto:joao.sarraceni@gmail.com)
 
   
-My name is João Henrique and I'm in the path to become a Data Scientist Jedi.<img src="https://emojis.slackmojis.com/emojis/images/1575297777/7233/baby-yoda.png?1575297777" width="25">
+My name is João Henrique and I'm a Data Scientist Padawan.<img src="https://emojis.slackmojis.com/emojis/images/1575297777/7233/baby-yoda.png?1575297777" width="25">
 
 ### Learning
 
