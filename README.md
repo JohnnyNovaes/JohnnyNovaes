@@ -6,7 +6,7 @@
   
 My name is João Henrique, I'm a Control and Automation Engineer in the path of Data Science!
 
-### Learning
+### Working with
 
 [<img src="https://github.com/JohnnyNovaes/JohnnyNovaes/blob/master/img/docker_logo.png" alt="docker logo" width="60">](https://www.docker.com/) [<img src="https://github.com/JohnnyNovaes/JohnnyNovaes/blob/master/img/jupyter_logo.png" alt="jupyter notebook logo" width="60">](https://jupyter.org/) [<img src="https://github.com/JohnnyNovaes/JohnnyNovaes/blob/master/img/pyton_logo.png" alt="python logo" width="60">](https://www.python.org/) [<img src="https://github.com/JohnnyNovaes/JohnnyNovaes/blob/master/img/aws_logo.png" alt="aws logo" width="60">](https://aws.amazon.com/) [<img src="https://github.com/JohnnyNovaes/JohnnyNovaes/blob/master/img/kubernets_logo.png" alt="kubernetes logo" width="60">](https://kubernetes.io/) [<img src="https://github.com/JohnnyNovaes/JohnnyNovaes/blob/master/img/pandas-logo-300.png" alt="Pandas Logo" width="60">](https://pandas.pydata.org/) [<img src="https://github.com/JohnnyNovaes/JohnnyNovaes/blob/master/img/scikit_logo.png" alt="Scikit Logo" width="60">](https://scikit-learn.org/)
 
