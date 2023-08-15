@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-joao.sarraceni@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao.sarraceni@gmail.com)](mailto:joao.sarraceni@gmail.com)
 
   
-My name is João Henrique, I'm a Data Scientist | Control and Automation Engineer!
+My name is João Henrique, I'm a Data Scientist.
 
 ### Working with
 
